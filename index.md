@@ -1,12 +1,12 @@
-# Privacy Policy for SpaceShooter
+# Privacy Policy for SpaceFighter
 
 _Last updated: 14 May 2026_
 
-This privacy policy explains what information the SpaceShooter app ("the app", "we", "us") collects, how it is used, and your rights regarding that information.
+This privacy policy explains what information the SpaceFighter app ("the app", "we", "us") collects, how it is used, and your rights regarding that information.
 
 ## Who we are
 
-SpaceShooter is developed by George Hunn, based in Germany.
+SpaceFighter is developed by George Hunn, based in Germany.
 Contact: georgehunn91@gmail.com
 
 ## What we collect
